@@ -1,5 +1,6 @@
 1. git clone this repo, put [esf_fulll_202511211949.csv](esf_fulll_202511211949.csv) to project dir
 2. install ollama from https://ollama.com/
+3. install ```ollama run qwen2.5:0.5b-instruct```
 2. install packages from requirements.txt
 3. ```python -m classify``` 
 
